@@ -1,0 +1,16 @@
+{
+  "name": "exceljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-excel": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "image-to-base64": "^2.2.0"
+  }
+}
